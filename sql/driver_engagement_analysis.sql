@@ -1,0 +1,1 @@
+-- SQL queries used for data cleaning, KPI creation, and analysis
